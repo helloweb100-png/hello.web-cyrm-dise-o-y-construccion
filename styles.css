@@ -219,7 +219,7 @@ html.lenis, html.lenis body { height: auto; }
 .header__bar { height: 100%; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
 
 .brand { display: inline-flex; align-items: center; flex: none; }
-.brand img { height: 42px; width: auto; }
+.brand img { height: 60px; width: auto; }
 
 .nav { display: none; }
 .nav a {
