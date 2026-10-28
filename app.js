@@ -11,8 +11,8 @@
 
     /* ─────────────── CONFIGURACIÓN (EDITAR AQUÍ) ─────────────── */
     const CONFIG = {
-        phone: '520000000000',              // código de país + número, sin "+" ni espacios
-        phoneDisplay: '+52 000 000 0000',   // cómo se muestra en pantalla
+        phone: '526141862623',              // código de país + número, sin "+" ni espacios
+        phoneDisplay: '+52 614 186 2623',   // cómo se muestra en pantalla
         defaultMessage: 'Hola CYRM, quiero platicar sobre mi proyecto.'
     };
 
